@@ -46,23 +46,15 @@ domains    -> defense hardware & electronics / Electrical-engineering / applied 
 
 ### current build focus
 
-- **Heimdall** — perimeter defense & recon system: STM32 sensor node → MQTT → YOLOv8 threat-scoring dashboard, built for high-risk Nigerian environments (Africa Deep Tech Challenge)
+- **Heimdall** — perimeter defense & recon system: STM32 sensor node $\rightarrow$ MQTT $\rightarrow$ YOLOv8 threat-scoring dashboard, built for high-risk Nigerian environments (Africa Deep Tech Challenge)
 - foundational PCB design practice in KiCad
 - intermediate design practice on Fusion360
 - currently interning at Ikeja Electric
 
-<br/>
-<!-- Dark Theme GitHub Stats Card -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsebuka&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Ebuka's GitHub Stats" />
-</p>
-
-<!-- Most Used Languages Card -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsebuka&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
-
-<!-- Commit Streak Counter -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsebuka&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <i>Fortis Fortuna Adiuvat, Fortune favors the brave</i>
 </p>
