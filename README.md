@@ -54,10 +54,15 @@ domains    -> defense hardware & electronics / Electrical-engineering / applied 
 <br/>
 <!-- Dark Theme GitHub Stats Card -->
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=itsebuka&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Ebuka's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itsebuka&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Ebuka's GitHub Stats" />
 </p>
 
 <!-- Most Used Languages Card -->
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itsebuka&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsebuka&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
+<!-- Commit Streak Counter -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsebuka&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
