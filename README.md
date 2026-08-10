@@ -44,6 +44,10 @@ domains    -> defense hardware & electronics / Electrical-engineering / applied 
 
 <br/>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/itsebuka/itsebuka/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
+
 ### current build focus
 
 - **Heimdall** — perimeter defense & recon system: STM32 sensor node $\rightarrow$ MQTT $\rightarrow$ YOLOv8 threat-scoring dashboard, built for high-risk Nigerian environments (Africa Deep Tech Challenge)
