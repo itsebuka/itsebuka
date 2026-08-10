@@ -1,19 +1,6 @@
 ## Hi there 👋
-
-<!--
-**itsebuka/itsebuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...[README_1.md](https://github.com/user-attachments/files/30910125/README_1.md)
-
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...<div align="center">
+[README.md](https://github.com/user-attachments/files/30910143/README.md)
+<div align="center">
 
 # EBUKA
 
@@ -67,5 +54,3 @@ company    -> Hanuman Labs — robotics & defense conglomerate, stealth mode
 *engineer first. building the things I wish already existed.*
 
 </div>
-
--->
