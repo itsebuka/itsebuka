@@ -1,8 +1,6 @@
 ## Hi there 👋
 <div align="center">
 
-# EBUKA ELEOGU
-
 **Electrical & electronics engineering student @ Pan Atlantic University**
 interested in and actively improving my skills and competence across robotics, embedded systems, and defense electronics from Lagos, Nigeria.
 
