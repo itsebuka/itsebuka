@@ -1,6 +1,4 @@
-<img width="5000" height="2500" alt="my twitter pfp" src="https://github.com/user-attachments/assets/5d827148-1c6c-4092-87ce-b8c8e4129c79" />
 ## Hi there 👋
-[README_2.md](https://github.com/user-attachments/files/30910363/README_2.md)
 <div align="center">
 
 # EBUKA ELEOGU
