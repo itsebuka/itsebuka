@@ -1,4 +1,4 @@
-## Hi there 👋
+﻿## Hi there 👋
 <div align="center">
 
 **Electrical & electronics engineering student @ Pan Atlantic University**
@@ -52,7 +52,11 @@ domains    -> defense hardware & electronics / Electrical-engineering / applied 
 - currently interning at Ikeja Electric
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsebuka&theme=dark&hide_border=true&cache_seconds=1" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=itsebuka&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsebuka&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
