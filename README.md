@@ -11,9 +11,9 @@ interested in and actively improving my skills and competence across robotics, e
 [![Website](https://img.shields.io/badge/WEBSITE-ebukaeleogu.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ebukaeleogu.vercel.app/)
 
 <br/>
-## PERSONAL STACK
+### My present stack
 
-<table align="center" width="150%">
+<table align="center" width="200%">
   <tr>
     <td align="center" width="12.5%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="56" height="56" alt="C"/><br><sub><b>C</b></sub></td>
     <td align="center" width="12.5%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="56" height="56" alt="C++"/><br><sub><b>C++</b></sub></td>
@@ -32,7 +32,7 @@ interested in and actively improving my skills and competence across robotics, e
     <td align="center" width="12.5%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="56" height="56" alt="React"/><br><sub><b>React</b></sub></td>
     <td align="center" width="12.5%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="56" height="56" alt="Next.js"/><br><sub><b>Next.js</b></sub></td>
     <td align="center" width="12.5%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="56" height="56" alt="Tailwind"/><br><sub><b>Tailwind</b></sub></td>
-    <td align="center" width="12.5%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kicad/kicad-original.svg" width="56" height="56" alt="KiCad"/><br><sub><b>KiCad</b></sub></td>
+    <td align="center" width="12.5%"><img src="https://cdn.simpleicons.org/kicad/314CB0" width="56" height="56" alt="KiCad"/><br><sub><b>KiCad</b></sub></td>
   </tr>
 </table>
 <br/>
