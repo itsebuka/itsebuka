@@ -12,41 +12,35 @@ interested in and actively improving my skills and competence across robotics, e
 
 <br/>
 
-## My present stack
 ### My present stack
 
 <!-- Hardware, Embedded & Robotics Core -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white" height="28" alt="C" />
-  <img src="https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" height="28" alt="C++" />
-  <img src="https://img.shields.io/badge/-Assembly-6E4C13?logo=assemblyscript&logoColor=white" height="28" alt="Assembly" />
-  <img src="https://img.shields.io/badge/-STM32-03234B?logo=stmicroelectronics&logoColor=white" height="28" alt="STM32" />
-  <img src="https://img.shields.io/badge/-ESP32-E7352C?logo=espressif&logoColor=white" height="28" alt="ESP32" />
-  <img src="https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white" height="28" alt="Arduino" />
-  <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?logo=raspberrypi&logoColor=white" height="28" alt="Raspberry Pi" />
-  <img src="https://img.shields.io/badge/-FreeRTOS-000000?logo=freertos&logoColor=white" height="28" alt="FreeRTOS" />
-  <img src="https://img.shields.io/badge/-ROS-22314E?logo=ros&logoColor=white" height="28" alt="ROS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" alt="Embedded C" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" alt="ROS" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="48" height="48" />
 </p>
 
-<!-- EDA, Simulation & CAD -->
+<!-- EDA, Simulation, AI & Vision -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-KiCad-314CB0?logo=kicad&logoColor=white" height="28" alt="KiCad" />
-  <img src="https://img.shields.io/badge/-Autodesk_Fusion-E51837?logo=autodesk&logoColor=white" height="28" alt="Fusion 360" />
-  <img src="https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white" height="28" alt="MATLAB" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black" height="28" alt="Linux" />
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" height="28" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kicad/kicad-original.svg" alt="KiCad" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" height="48" />
 </p>
 
-<!-- AI, Vision, Protocols & Software Stack -->
+<!-- Full-Stack & Protocols -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="28" alt="Python" />
-  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white" height="28" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white" height="28" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/-MQTT-660066?logo=mqtt&logoColor=white" height="28" alt="MQTT" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" height="28" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" height="28" alt="React" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white" height="28" alt="Next.js" />
-  <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" height="28" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="48" height="48" />
 </p>
 <br/>
 
