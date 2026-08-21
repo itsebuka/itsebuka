@@ -11,9 +11,9 @@ interested in and actively improving my skills and competence across robotics, e
 [![Website](https://img.shields.io/badge/WEBSITE-ebukaeleogu.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ebukaeleogu.vercel.app/)
 
 <br/>
-#My present stack#
+### PERSONAL STACK
 
-<table align="center" width="100%">
+<table align="center" width="150%">
   <tr>
     <td align="center" width="12.5%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="56" height="56" alt="C"/><br><sub><b>C</b></sub></td>
     <td align="center" width="12.5%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="56" height="56" alt="C++"/><br><sub><b>C++</b></sub></td>
