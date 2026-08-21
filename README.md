@@ -12,7 +12,6 @@ interested in and actively improving my skills and competence across robotics, e
 
 <br/>
 #My present stack#
-### My present stack
 
 <table align="center" width="100%">
   <tr>
