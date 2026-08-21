@@ -13,23 +13,41 @@ interested in and actively improving my skills and competence across robotics, e
 <br/>
 
 ## My present stack
+### My present stack
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![KiCad](https://img.shields.io/badge/KICAD-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
-![Fusion 360](https://img.shields.io/badge/FUSION_360-F79226?style=for-the-badge&logo=autodesk&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TAILWIND_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Claude Code](https://img.shields.io/badge/CLAUDE_CODE-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![Antigravity](https://img.shields.io/badge/ANTIGRAVITY_IDE-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Gemini](https://img.shields.io/badge/GEMINI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![GPT-OSS](https://img.shields.io/badge/GPT--OSS-000000?style=for-the-badge&logo=openai&logoColor=white)
+<!-- Hardware, Embedded & Robotics Core -->
+<p align="center">
+  <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white" height="28" alt="C" />
+  <img src="https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" height="28" alt="C++" />
+  <img src="https://img.shields.io/badge/-Assembly-6E4C13?logo=assemblyscript&logoColor=white" height="28" alt="Assembly" />
+  <img src="https://img.shields.io/badge/-STM32-03234B?logo=stmicroelectronics&logoColor=white" height="28" alt="STM32" />
+  <img src="https://img.shields.io/badge/-ESP32-E7352C?logo=espressif&logoColor=white" height="28" alt="ESP32" />
+  <img src="https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white" height="28" alt="Arduino" />
+  <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?logo=raspberrypi&logoColor=white" height="28" alt="Raspberry Pi" />
+  <img src="https://img.shields.io/badge/-FreeRTOS-000000?logo=freertos&logoColor=white" height="28" alt="FreeRTOS" />
+  <img src="https://img.shields.io/badge/-ROS-22314E?logo=ros&logoColor=white" height="28" alt="ROS" />
+</p>
+
+<!-- EDA, Simulation & CAD -->
+<p align="center">
+  <img src="https://img.shields.io/badge/-KiCad-314CB0?logo=kicad&logoColor=white" height="28" alt="KiCad" />
+  <img src="https://img.shields.io/badge/-Autodesk_Fusion-E51837?logo=autodesk&logoColor=white" height="28" alt="Fusion 360" />
+  <img src="https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white" height="28" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black" height="28" alt="Linux" />
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" height="28" alt="Git" />
+</p>
+
+<!-- AI, Vision, Protocols & Software Stack -->
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="28" alt="Python" />
+  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white" height="28" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white" height="28" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/-MQTT-660066?logo=mqtt&logoColor=white" height="28" alt="MQTT" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" height="28" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" height="28" alt="React" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white" height="28" alt="Next.js" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" height="28" alt="Tailwind CSS" />
+</p>
 <br/>
 
 </div>
